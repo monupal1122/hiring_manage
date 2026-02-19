@@ -1,7 +1,7 @@
 import { DashboardLayout } from '../components/layout/DashboardLayout';
-import { Card, CardHeader, CardContent } from '../components/ui/Card';
-import { Button } from '../components/ui/Button';
-import { Badge } from '../components/ui/Badge';
+import { Card, CardHeader, CardContent } from '../components/ui/card';
+import { Button } from '../components/ui/button';
+import { Badge } from '../components/ui/badge';
 import { Building2, Users, DollarSign, TrendingUp, Activity, Check, X } from 'lucide-react';
 import { KPICard } from '../components/ui/KPICard';
 

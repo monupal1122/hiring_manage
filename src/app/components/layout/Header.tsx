@@ -1,5 +1,5 @@
 import { Bell, ChevronDown, Search, HelpCircle } from 'lucide-react';
-import { Badge } from '../ui/Badge';
+import { Badge } from '../ui/badge';
 
 interface HeaderProps {
   tenantName?: string;

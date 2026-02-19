@@ -1,8 +1,8 @@
 import { DashboardLayout } from '../components/layout/DashboardLayout';
 import { KPICard } from '../components/ui/KPICard';
-import { Card, CardHeader, CardContent } from '../components/ui/Card';
-import { Badge } from '../components/ui/Badge';
-import { Button } from '../components/ui/Button';
+import { Card, CardHeader, CardContent } from '../components/ui/card';
+import { Badge } from '../components/ui/badge';
+import { Button } from '../components/ui/button';
 import { FeatureTour } from '../components/ui/FeatureTour';
 import { 
   Briefcase, 

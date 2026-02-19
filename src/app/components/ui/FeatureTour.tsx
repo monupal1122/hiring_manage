@@ -1,5 +1,5 @@
 import { X, Briefcase, Users, Calendar, BarChart3, Building2, CreditCard, Sparkles, QrCode } from 'lucide-react';
-import { Button } from './Button';
+import { Button } from './button';
 
 interface FeatureTourProps {
   onClose: () => void;
