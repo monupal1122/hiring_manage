@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { DashboardLayout } from '../components/layout/DashboardLayout';
-import { Card, CardHeader, CardContent } from '../components/ui/Card';
-import { Button } from '../components/ui/Button';
-import { Badge } from '../components/ui/Badge';
-import { Input } from '../components/ui/Input';
+import { Card, CardHeader, CardContent } from '../components/ui/card';
+import { Button } from '../components/ui/button';
+import { Badge } from '../components/ui/badge';
+import { Input } from '../components/ui/input';
 import QRCode from 'react-qr-code';
 import { 
   Calendar, 
